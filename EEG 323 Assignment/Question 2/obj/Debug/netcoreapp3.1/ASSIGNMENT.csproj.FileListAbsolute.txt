@@ -1,0 +1,13 @@
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\ASSIGNMENT\bin\Debug\netcoreapp3.1\ASSIGNMENT.exe
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\ASSIGNMENT\bin\Debug\netcoreapp3.1\ASSIGNMENT.deps.json
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\ASSIGNMENT\bin\Debug\netcoreapp3.1\ASSIGNMENT.runtimeconfig.json
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\ASSIGNMENT\bin\Debug\netcoreapp3.1\ASSIGNMENT.runtimeconfig.dev.json
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\ASSIGNMENT\bin\Debug\netcoreapp3.1\ASSIGNMENT.dll
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\ASSIGNMENT\bin\Debug\netcoreapp3.1\ASSIGNMENT.pdb
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\ASSIGNMENT\obj\Debug\netcoreapp3.1\ASSIGNMENT.csprojAssemblyReference.cache
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\ASSIGNMENT\obj\Debug\netcoreapp3.1\ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\ASSIGNMENT\obj\Debug\netcoreapp3.1\ASSIGNMENT.AssemblyInfo.cs
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\ASSIGNMENT\obj\Debug\netcoreapp3.1\ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\ASSIGNMENT\obj\Debug\netcoreapp3.1\ASSIGNMENT.dll
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\ASSIGNMENT\obj\Debug\netcoreapp3.1\ASSIGNMENT.pdb
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\ASSIGNMENT\obj\Debug\netcoreapp3.1\ASSIGNMENT.genruntimeconfig.cache

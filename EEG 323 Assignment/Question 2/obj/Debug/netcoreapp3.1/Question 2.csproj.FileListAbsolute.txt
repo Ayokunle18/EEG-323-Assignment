@@ -1,0 +1,13 @@
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\Assignment\Question 2\bin\Debug\netcoreapp3.1\Question 2.exe
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\Assignment\Question 2\bin\Debug\netcoreapp3.1\Question 2.deps.json
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\Assignment\Question 2\bin\Debug\netcoreapp3.1\Question 2.runtimeconfig.json
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\Assignment\Question 2\bin\Debug\netcoreapp3.1\Question 2.runtimeconfig.dev.json
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\Assignment\Question 2\bin\Debug\netcoreapp3.1\Question 2.dll
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\Assignment\Question 2\bin\Debug\netcoreapp3.1\Question 2.pdb
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\Assignment\Question 2\obj\Debug\netcoreapp3.1\Question 2.csprojAssemblyReference.cache
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\Assignment\Question 2\obj\Debug\netcoreapp3.1\Question 2.AssemblyInfoInputs.cache
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\Assignment\Question 2\obj\Debug\netcoreapp3.1\Question 2.AssemblyInfo.cs
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\Assignment\Question 2\obj\Debug\netcoreapp3.1\Question 2.csproj.CoreCompileInputs.cache
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\Assignment\Question 2\obj\Debug\netcoreapp3.1\Question 2.dll
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\Assignment\Question 2\obj\Debug\netcoreapp3.1\Question 2.pdb
+C:\Users\AJALA AYOKUNLE\Desktop\EEG 323\Assignment\Question 2\obj\Debug\netcoreapp3.1\Question 2.genruntimeconfig.cache
